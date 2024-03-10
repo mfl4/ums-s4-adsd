@@ -42,7 +42,133 @@
         <chat>
           <internalId value="5204f441-657e-4275-b8cf-387d49e6a93f" />
         </chat>
+        <chat>
+          <internalId value="b1c82f4a-c358-4adc-b748-33fe13c3795c" />
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="1663ad18-24b5-42e6-9367-cc6bf5445846" />
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="d670dc6a-b87f-4eb3-9fbc-7ee0e114becd" />
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="91ea1b6e-1ca7-4ca9-8f8d-54ab97f018f5" />
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="257a4f5f-873c-459a-bcab-77d33771b1c5" />
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="732d7e6f-e031-4638-b904-006844c51785" />
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="24f0d29a-e453-4748-b6c8-5064a1d4a8fd" />
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="0862e041-d58e-4520-8893-a8d7525b8666" />
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="c007cbc3-374a-430d-90e9-0074412bfbab" />
+        </chat>
       </list>
     </chats>
+    <defaultEnhancedContext>
+      <enhancedContext>
+        <remoteRepositories>
+          <list>
+            <remoteRepository>
+              <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
+            </remoteRepository>
+          </list>
+        </remoteRepositories>
+      </enhancedContext>
+    </defaultEnhancedContext>
   </component>
 </project>
