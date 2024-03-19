@@ -51,6 +51,7 @@
               <remoteRepositories>
                 <list>
                   <remoteRepository>
+                    <codebaseName value="github.com/mfl4/ums-s4-adsd" />
                     <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
                   </remoteRepository>
                 </list>
@@ -65,6 +66,7 @@
               <remoteRepositories>
                 <list>
                   <remoteRepository>
+                    <codebaseName value="github.com/mfl4/ums-s4-adsd" />
                     <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
                   </remoteRepository>
                 </list>
@@ -79,6 +81,7 @@
               <remoteRepositories>
                 <list>
                   <remoteRepository>
+                    <codebaseName value="github.com/mfl4/ums-s4-adsd" />
                     <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
                   </remoteRepository>
                 </list>
@@ -93,6 +96,7 @@
               <remoteRepositories>
                 <list>
                   <remoteRepository>
+                    <codebaseName value="github.com/mfl4/ums-s4-adsd" />
                     <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
                   </remoteRepository>
                 </list>
@@ -107,6 +111,7 @@
               <remoteRepositories>
                 <list>
                   <remoteRepository>
+                    <codebaseName value="github.com/mfl4/ums-s4-adsd" />
                     <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
                   </remoteRepository>
                 </list>
@@ -121,6 +126,7 @@
               <remoteRepositories>
                 <list>
                   <remoteRepository>
+                    <codebaseName value="github.com/mfl4/ums-s4-adsd" />
                     <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
                   </remoteRepository>
                 </list>
@@ -135,6 +141,7 @@
               <remoteRepositories>
                 <list>
                   <remoteRepository>
+                    <codebaseName value="github.com/mfl4/ums-s4-adsd" />
                     <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
                   </remoteRepository>
                 </list>
@@ -149,6 +156,7 @@
               <remoteRepositories>
                 <list>
                   <remoteRepository>
+                    <codebaseName value="github.com/mfl4/ums-s4-adsd" />
                     <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
                   </remoteRepository>
                 </list>
@@ -157,6 +165,201 @@
           </enhancedContext>
           <internalId value="c007cbc3-374a-430d-90e9-0074412bfbab" />
         </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <codebaseName value="github.com/mfl4/ums-s4-adsd" />
+                    <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="0de8ff76-88bd-4110-8b14-48a95bf7b3a8" />
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <codebaseName value="github.com/mfl4/ums-s4-adsd" />
+                    <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="2fbf8830-9aca-4036-8a47-0479846e41bb" />
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <codebaseName value="github.com/mfl4/ums-s4-adsd" />
+                    <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="f655189d-abe0-4918-9c49-b76435b59d6b" />
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <codebaseName value="github.com/mfl4/ums-s4-adsd" />
+                    <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="a547c8ce-a02a-4d22-8b49-7059e5d005f0" />
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <codebaseName value="github.com/mfl4/ums-s4-adsd" />
+                    <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="23b270bc-7a94-4349-be24-c672f377d0d5" />
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <codebaseName value="github.com/mfl4/ums-s4-adsd" />
+                    <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="ce580e2d-05c1-4836-a9e7-08f5977855e9" />
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <codebaseName value="github.com/mfl4/ums-s4-adsd" />
+                    <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="13330543-822d-4bee-a1da-4117dff25bb4" />
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <codebaseName value="github.com/mfl4/ums-s4-adsd" />
+                    <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="f05878ed-5da2-4168-a632-3966aa170911" />
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <codebaseName value="github.com/mfl4/ums-s4-adsd" />
+                    <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="9df51810-c561-4bfd-bd68-6925e5566d45" />
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <codebaseName value="github.com/mfl4/ums-s4-adsd" />
+                    <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="d26a6bca-57c5-4b8e-b73f-e021f5cb8fbc" />
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <codebaseName value="github.com/mfl4/ums-s4-adsd" />
+                    <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="050567e0-aa86-4434-a32b-72304f179394" />
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <codebaseName value="github.com/mfl4/ums-s4-adsd" />
+                    <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="0898998b-ca86-420a-9cf2-431fc6b2fb4f" />
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <codebaseName value="github.com/mfl4/ums-s4-adsd" />
+                    <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="3a7a20f4-deb4-44c2-af55-2e2e9c9f11e3" />
+        </chat>
       </list>
     </chats>
     <defaultEnhancedContext>
@@ -164,6 +367,7 @@
         <remoteRepositories>
           <list>
             <remoteRepository>
+              <codebaseName value="github.com/mfl4/ums-s4-adsd" />
               <remoteUrl value="github.com/mfl4/ums-s4-adsd" />
             </remoteRepository>
           </list>
